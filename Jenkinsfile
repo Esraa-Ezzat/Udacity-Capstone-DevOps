@@ -26,7 +26,7 @@ pipeline {
 
 		
 
-		stage('Create Cluster's Configuration File') {
+		stage('Create Clusters Configuration File') {
 			steps {
 				withAWS(region:'us-east-1', credentials:'capstone_cred') {
 					sh '''
