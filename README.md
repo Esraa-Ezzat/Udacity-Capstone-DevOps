@@ -1,6 +1,6 @@
 # Project 5 - Cloud DevOps Engineer Capstone Project
 
-> Appling my skills and knowledge which was developed throughout the Cloud DevOps Nanodegree program.
+> Applying my skills and knowledge which was developed throughout the Cloud DevOps Nanodegree program.
 
 ## Project Tasks:
 
